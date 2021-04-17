@@ -9,7 +9,7 @@ Tener pre-instalado w3m y requests, en caso de no tenerlos instalados :
 En caso de tener instalados estos requerimientos:
 - git clone https://github.com/Monkey-hk4/rabbit
 - cd rabbit
-- sudo 1.py
+- sudo python3 1.py
 
 # Sistemas Operativos Disponibles
 - Kali Linux
