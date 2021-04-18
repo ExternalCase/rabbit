@@ -13,6 +13,7 @@ En caso de tener instalados estos requerimientos:
 
 # Sistemas Operativos Disponibles
 - Kali Linux
+- Parrot Security OS
 
 # Módulos 
 
