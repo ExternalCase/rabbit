@@ -1,5 +1,5 @@
 # Proyect Rabbit
-![sh](https://github.com/Monkey-hk4/rabbit/blob/main/rabbit-foto-original.jpg)
+![sh](https://github.com/Monkey-hk4/rabbit/blob/main/Screenshot_2021-05-08_21_00_33.png)
 
 # Instalación 
 Tener pre-instalado w3m y requests, en caso de no tenerlos instalados :
