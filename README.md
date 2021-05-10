@@ -3,13 +3,13 @@
 
 # Instalación 
 Tener pre-instalado w3m y requests, en caso de no tenerlos instalados :
-- apt-get install w3m
-- pip3 install requests
+* `apt-get install w3m`
+* `pip install requests`
 
 En caso de tener instalados estos requerimientos:
-- git clone https://github.com/Monkey-hk4/rabbit
-- cd rabbit
-- sudo python3 rabbit.py
+* `git clone https://github.com/Monkey-hk4/rabbit`
+* `cd rabbit`
+* `sudo python3 rabbit.py`
 
 # Sistemas Operativos Disponibles
 - Kali Linux
