@@ -1,6 +1,9 @@
 # Proyect Rabbit
 ![sh](https://github.com/Monkey-hk4/rabbit/blob/main/Screenshot_2021-05-08_21_00_33.png)
 
+# DONACIONES 
+- https://www.paypal.com/paypalme/davidhk4
+
 # Instalación 
 Tener pre-instalado w3m y requests, en caso de no tenerlos instalados :
 * `apt-get install w3m`
