@@ -7,7 +7,7 @@ Tener pre-instalado w3m y requests, en caso de no tenerlos instalados :
 * `pip install requests`
 
 En caso de tener instalados estos requerimientos:
-* `git clone https://github.com/Monkey-hk4/rabbit`
+* `git clone https://github.com/rasmuskernel/rabbit`
 * `cd rabbit`
 * `sudo python3 rabbit.py`
 
